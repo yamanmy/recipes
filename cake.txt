@@ -1,5 +1,5 @@
-eggs
-mmilk 
-flour 
+4 eggs
+milk 
+425g flour 
 CHOC
 
